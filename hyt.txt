@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-fourth commitS
-=======
+
 again staring from second comit
->>>>>>> bb9895e (fifth commit)
+ (fifth commit)
